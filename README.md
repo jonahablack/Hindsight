@@ -1,25 +1,14 @@
-# Knowing Enough to Act
+# Hindsight
 
 How societies learned to live with new sciences, technologies, and
 medicines.
 
-This project follows one science, technology, medical practice, or
-system of knowledge at a time, from its arrival in an existing social
-world through what had to change around it. The guiding question: what
+This project tracks the impact of a scientific or technological innovation, to determine what
 happens after a society acquires a new way of seeing, healing,
-communicating, measuring, making, or organizing life, before it has
-learned how to live with it?
+communicating, measuring, making, or organizing life, and what choices are made to adapt.
 
-This is not a timeline of great inventions, a celebration of inventors,
-or a map organized mainly by year and place. Cases are grouped by what
-kind of new thing arrived: a way of seeing, measuring, communicating,
-healing, making and moving, knowing, or organizing society. The project
-stays focused on science, technology, medicine, and systems of
-knowledge, because its underlying purpose is to sharpen questions about
-AI and digital technology. Every case carries a compact "Question for AI
-and digital technology" module that names a structural comparison, asks
-open questions, and says plainly where the comparison breaks down. See
-the methodology page for the full framing.
+Cases are grouped by what kind of new thing arrived. Categories include ways of seeing, measuring, communicating,
+healing, making and moving, knowing, or organizing society.
 
 ## Stack
 
@@ -98,30 +87,6 @@ sources: [
 ```
 
 If a claim has no real source yet, use `"[Source to be added]"` as the
-citation rather than inventing one. Do not fabricate a citation, a page
-number, or a quotation to fill a gap.
+citation.
 
-## Writing style
-
-Case text and page copy in this project stick to plain, careful,
-historically curious prose: short sentences, common words. Avoid em
-dashes, "not X but Y" constructions, and startup or policy-consultancy
-language (words like "transformative," "game-changing," "revolutionary,"
-"robust," "seamless," "leverage," "harness," "navigate," or "landscape").
-Prefer direct questions: "What changed?" "Who accepted it?" "Who resisted
-it?" "What had to be rebuilt around it?" This applies to every text field
-in a case and to page copy in `app/`. It does not apply to the fixed
-category labels in `data/taxonomy.ts`, which are part of the site's data
-model.
-
-## Research integrity
-
-This project does not invent citations, archive records, quotations,
-dates, or outcomes. It does not assume that scientific or technical
-change follows a single path, that adoption equals progress, or that
-historical cases provide simple answers for present problems. Every case
-visibly displays its research status, and the `caution` field on every
-case distinguishes established historical fact from this project's own
-interpretive framing. See [PROJECT_NOTES.md](./PROJECT_NOTES.md) for what
-in the current case set still needs deeper verification.
 # Hindsight
