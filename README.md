@@ -86,7 +86,5 @@ sources: [
 ]
 ```
 
-If a claim has no real source yet, use `"[Source to be added]"` as the
+If a claim has no source yet, use `"[Source to be added]"` as the
 citation.
-
-# Hindsight
