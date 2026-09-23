@@ -134,11 +134,10 @@ export default function HomePage() {
             </p>
           </div>
           <div>
-            <h3 className="font-medium text-ink">Provisional by design</h3>
+            <h3 className="font-medium text-ink">Sourced and labeled</h3>
             <p className="mt-2 text-sm leading-relaxed text-ink-muted">
-              Every case shows its own research status and lists its
-              sources. This is a small, early set of cases, not a finished
-              archive.
+              Every case shows its own research status and lists the
+              sources behind it.
             </p>
           </div>
         </div>

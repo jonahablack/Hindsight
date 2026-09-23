@@ -68,12 +68,6 @@ export default async function CaseDetailPage({
         ← Back to all cases
       </Link>
 
-      <div className="mt-4 rounded-sm border border-warn/30 bg-warn-soft px-4 py-3 text-sm text-warn">
-        Prototype: source verification in progress. This page is a
-        preliminary case built from a small set of secondary sources and
-        will be revised as scholarly sources are added.
-      </div>
-
       <header className="mt-6">
         <div className="flex flex-wrap items-center gap-3">
           <ResearchStatusBadge status={caseItem.researchStatus} />

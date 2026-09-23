@@ -21,13 +21,10 @@ export default function MethodologyPage() {
             The question
           </h2>
           <p className="mt-2 leading-relaxed text-ink-muted">
-            What happens after a society acquires a new way of seeing,
-            healing, communicating, measuring, making, or organizing life,
-            before it has learned how to live with it? Each case follows
+            Each case in our archive follows
             one science or technology, from its arrival in an existing
-            social world through what had to change around it. It is not
-            a timeline of great inventions, and it does not organize
-            cases by year, place, or inventor.
+            social world through what had to change around it. Through these cases, we aim to give a broad account of
+            what happens after a society acquires a new capability, and how the innovation is received.
           </p>
         </section>
 
@@ -36,13 +33,10 @@ export default function MethodologyPage() {
             Categories
           </h2>
           <p className="mt-2 leading-relaxed text-ink-muted">
-            Cases are grouped by what kind of new thing arrived, not by
-            when or where. A telescope and an X-ray machine, invented
-            centuries apart, have more in common here, both changed what
-            people could see, than either does with something from the
-            same decade in a different category. Each category&apos;s
-            guiding question appears on the explore page and on the home
-            page&apos;s category cards.
+            Cases are grouped by what <i>kind</i> of new thing arrived,
+            not by when or where. A telescope and an X-ray machine,
+            invented centuries apart, both changed what people could
+            see. These therefore belong to the <i>ways of seeing</i> category.
           </p>
         </section>
 
@@ -54,14 +48,10 @@ export default function MethodologyPage() {
             A case belongs when a claim, a device, an infrastructure, or
             a system of knowledge entered an established social setting
             and forced people to revise how they understood authority,
-            risk, communication, work, or ordinary practice. Purely
+            risk, communication, work, or ordinary practice. As such, purely
             political or biographical episodes do not qualify unless a
             concrete science or technology sits at the center of the
-            story. Martin Luther appears here only as part of a case
-            about printing and the reading publics it created, not as a
-            case about Luther himself. Socrates is not included: his
-            trial is a political and religious prosecution, not the
-            arrival of a new capability.
+            story.
           </p>
         </section>
 
@@ -70,18 +60,15 @@ export default function MethodologyPage() {
             Two seed lists
           </h2>
           <p className="mt-2 leading-relaxed text-ink-muted">
-            Two books serve as practical starting lists of candidate
-            cases, not as authoritative sources or this project&apos;s own
-            language.
+            Two books serve as starting lists of candidate cases.
           </p>
           <ul className="mt-3 list-disc space-y-2 pl-5 leading-relaxed text-ink-muted">
             <li>
               Kendall Haven&apos;s{" "}
               <span className="text-ink">100 Greatest Science Discoveries of All Time</span>{" "}
               covers discoveries in a narrow sense, facts found out about
-              nature, which usually is not the kind of social arrival
-              this project follows. Only a fraction of the list becomes a
-              full case. See{" "}
+              nature. Only a fraction of the list becomes a full case.
+              See{" "}
               <span className="text-ink">data/haven-seed-candidates.json</span>.
             </li>
             <li>
@@ -93,10 +80,6 @@ export default function MethodologyPage() {
               <span className="text-ink">data/1001-inventions-seed-candidates.json</span>.
             </li>
           </ul>
-          <p className="mt-3 leading-relaxed text-ink-muted">
-            Both files will expand and get corrected through real
-            scholarly sources over time, not stay fixed to two books.
-          </p>
         </section>
 
         <section>
@@ -106,26 +89,8 @@ export default function MethodologyPage() {
           <p className="mt-2 leading-relaxed text-ink-muted">
             The clearest record of a new capability entering an
             established order, who adopted it, who resisted it, what had
-            to change, comes from science and technology. That pattern
-            is not unique to any one era. Readers are free to draw their
-            own connections to what is arriving now; this project
-            describes what happened in each case and leaves that
-            connection to the reader.
-          </p>
-        </section>
-
-        <section>
-          <h2 className="font-serif-display text-lg font-semibold text-ink">
-            Limits of the record
-          </h2>
-          <p className="mt-2 leading-relaxed text-ink-muted">
-            Historical records are not complete or evenly kept. Whose
-            objections got written down, and whose left no record at
-            all, is an open question for every case here, not a settled
-            one. This project does not assume that adoption equals
-            progress or that a historical case hands over a simple
-            answer for a present problem. Each case is provisional and
-            should be read with attention to its source base.
+            to change, comes from science and technology. Readers are
+            free to draw their own connections to what is arriving now.
           </p>
         </section>
 
@@ -134,9 +99,8 @@ export default function MethodologyPage() {
             Contribute
           </h2>
           <p className="mt-2 leading-relaxed text-ink-muted">
-            This project is small and still unfinished. If you know a
-            source that should be added, a claim that needs a fix, or a
-            case that belongs here, see{" "}
+            If you know a source that should be added, a claim that
+            needs a fix, or a case that belongs here, see{" "}
             <span className="font-medium text-ink">CONTRIBUTING.md</span>{" "}
             in the project code.
           </p>

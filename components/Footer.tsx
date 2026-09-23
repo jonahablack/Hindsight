@@ -5,8 +5,7 @@ export default function Footer() {
     <footer className="mt-16 border-t border-border bg-paper-raised">
       <div className="mx-auto max-w-6xl px-5 py-10 sm:px-8">
         <p className="max-w-2xl text-sm leading-relaxed text-ink-muted">
-          hindsight is small and still growing. Each case shows its own
-          research status. See the{" "}
+          Each case shows its own research status and sources. See the{" "}
           <Link href="/methodology" className="focus-ring rounded-sm underline decoration-border-strong underline-offset-4 hover:text-accent hover:decoration-accent">
             methodology
           </Link>{" "}
