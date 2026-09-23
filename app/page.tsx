@@ -24,11 +24,11 @@ export default function HomePage() {
             An Archive of Disruptive Innovations
           </h1>
           <p className="mt-5 max-w-2xl text-lg leading-relaxed text-ink-muted">
-            How historical societies adapted to the introduction and spread of new sciences and technologies.
+            Mapping how historical societies adapted to the introduction and spread of new sciences and technologies.
           </p>
           <p className="mt-6 max-w-2xl leading-relaxed text-ink-muted">
-            Discoveries are not made in a vacuum. Innovations are prone to disrupt
-            established habits, institutions, beliefs, and forms of
+            Over the course of history, many innovations have disrupted established ways of life, challenging
+            predominant socialhabits, institutions, ways of thinking, and forms of
             authority. This project tracks the course of several notable innovations over 
             the course of history
             including the circumstances that shaped their reception, manners of adaption and resitance,
