@@ -12,7 +12,7 @@ export default function MethodologyPage() {
         Methodology
       </h1>
       <p className="mt-4 text-lg leading-relaxed text-ink-muted">
-        This project is interested in patterns, not timeless rules.
+        Hindsight traces the recurring patterns that emerge when new technologies disrupt existing norms. This project aims to shed light on these patterns.
       </p>
 
       <div className="mt-10 flex flex-col gap-8">
