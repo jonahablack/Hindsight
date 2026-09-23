@@ -15,7 +15,7 @@ healing, making and moving, knowing, or organizing society.
 - [Next.js](https://nextjs.org) (App Router) + TypeScript
 - [Tailwind CSS v4](https://tailwindcss.com)
 - Static local data (`data/cases.ts`) — no database, no auth, no external APIs at runtime
-- [react-simple-maps](https://www.react-simple-maps.io/) + [d3-geo](https://github.com/d3/d3-geo) for the Routes and Networks map, drawing a real (though simplified) world outline from a static file at `public/data/land-110m.json`, sourced once from the `world-atlas` package. No live map tiles or external map API calls.
+- [react-globe.gl](https://github.com/vasturiano/react-globe.gl) (Three.js/WebGL) for the Routes and Networks page's interactive 3D globe, drawing a real (though simplified) world outline from a static file at `public/data/land-110m.json`, sourced once from the `world-atlas` package. The globe surface is a plain colored material, not a photographic texture, so there's still no live map tiles or external map API calls. Rendered client-only (`next/dynamic` with `ssr: false`) since WebGL needs a browser.
 
 ## Running the project
 
@@ -46,15 +46,15 @@ app/                    Routes (App Router)
   methodology/            Methodology page
   about/                  About page
 components/              Reusable UI components
-  WorldMap.tsx             The interactive map (react-simple-maps)
+  WorldMap.tsx             The Routes and Networks page shell (sidebar, legend, selection state)
+  Globe3D.tsx               The 3D globe itself (react-globe.gl), loaded client-only
   SocialAdjustmentMap.tsx   The six-stage adjustment path shown on each case
-  AIQuestionModule.tsx      The "Question for AI and digital technology" box
   WhatChangedPathway.tsx    The small interactive pathway on the home page
 data/
-  cases.ts                 The six seed cases (edit this to add/change a case)
+  cases.ts                 257 cases (edit this to add/change a case): 6 originally hand-written, 242 built from the 1001-inventions seed list (239 from the automated notability pass, plus 3 Industrial Revolution cases added by hand afterward), and 9 from a triaged subset of the Haven seed list
   taxonomy.ts               Labels and guiding questions for the seven categories
-  haven-seed-candidates.json  A preliminary, unreviewed list of 100 candidate discoveries from Kendall Haven's book, used as a seed list, not treated as authoritative
-  1001-inventions-seed-candidates.json  A preliminary, unreviewed extraction of all 1,001 chapters of Jack Challoner's edited collection, each read individually, ~24% flagged as worth a closer look
+  haven-seed-candidates.json  Kendall Haven's 100-title list, used as a non-authoritative seed list; each entry now carries a final `candidateStatus` (`built`, `excluded-duplicate`, or `excluded-thin-social-narrative`) recording why it did or didn't become a case
+  1001-inventions-seed-candidates.json  All 1,001 chapters of Jack Challoner's edited collection, extracted and read individually; the 239 entries flagged `notableForFullCase: true` are the ones built into cases
 types/
   case.ts                   The Case data model (TypeScript types)
 lib/

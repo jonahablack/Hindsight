@@ -1,0 +1,909 @@
+{
+  "source": {
+    "citation": "Kendall Haven, \"100 Greatest Science Discoveries of All Time\", Libraries Unlimited, 2007",
+    "note": "This file is a preliminary, unreviewed extraction of the book's table of contents. Page numbers below were read directly from the book's own contents pages and are believed accurate. Nothing else in this file, category, approximate period, or the social-adjustment question, comes from reading the book's chapter text itself. Haven's own book explicitly covers discoveries, not inventions, and excludes anything he could not attribute to one person or a small team, so most entries here describe a fact found out about nature rather than a technology, practice, or system entering a society. Only a fraction of this list is expected to become a full case in this project. Nothing here should be treated as authoritative or complete, and no page number, category, period, or question below should be cited as coming from Haven's own text until it has been checked against the book directly.",
+    "candidateStatusMeaning": "unreviewed means the entry has not been checked against the book's chapter text, against other sources, or against this project's case-eligibility rules."
+  },
+  "candidates": [
+    {
+      "title": "Levers and Buoyancy",
+      "havenPage": 3,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "3rd century BCE",
+      "possibleSocialAdjustmentQuestion": "What changed about how builders and engineers reasoned once force and floating could be described mathematically?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Archimedes; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "The Sun Is the Center of the Universe",
+      "havenPage": 5,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1543",
+      "possibleSocialAdjustmentQuestion": "What had to be rebuilt in astronomy and theology once Earth was no longer the fixed center?",
+      "candidateStatus": "built",
+      "notes": "Overlaps with existing site content on Copernicus and Galileo; period is general knowledge, not yet checked against the book. Built as case id \"heliocentrism-galileo-inquisition-trial\"."
+    },
+    {
+      "title": "Human Anatomy",
+      "havenPage": 7,
+      "category": "ways-of-seeing",
+      "approximatePeriod": "1543",
+      "possibleSocialAdjustmentQuestion": "What changed when direct dissection replaced inherited text as the basis for anatomical knowledge?",
+      "candidateStatus": "built",
+      "notes": "Associated with Vesalius; period is general knowledge, not yet checked against the book. Built as case id \"vesalius-human-anatomy-dissection\"."
+    },
+    {
+      "title": "The Law of Falling Objects",
+      "havenPage": 9,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "circa 1590s-1600s",
+      "possibleSocialAdjustmentQuestion": "What changed once motion could be described by a rule rather than by Aristotelian category?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Galileo; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Planetary Motion",
+      "havenPage": 11,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1609-1619",
+      "possibleSocialAdjustmentQuestion": "What had to change once planetary orbits were shown to be elliptical rather than perfectly circular?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Kepler; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Jupiter's Moons",
+      "havenPage": 13,
+      "category": "ways-of-seeing",
+      "approximatePeriod": "1610",
+      "possibleSocialAdjustmentQuestion": "What changed once a telescope showed bodies that clearly did not orbit Earth?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Galileo; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Human Circulatory System",
+      "havenPage": 15,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1628",
+      "possibleSocialAdjustmentQuestion": "What had to change in medical training once blood was understood to circulate rather than to be consumed and replenished?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with William Harvey; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Air Pressure",
+      "havenPage": 17,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1643",
+      "possibleSocialAdjustmentQuestion": "What became measurable and predictable once air itself was understood to exert pressure?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Torricelli; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Boyle's Law",
+      "havenPage": 19,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1662",
+      "possibleSocialAdjustmentQuestion": "What did a fixed mathematical relationship between gas pressure and volume make possible for later engineering?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "The Existence of Cells",
+      "havenPage": 21,
+      "category": "ways-of-seeing",
+      "approximatePeriod": "1665",
+      "possibleSocialAdjustmentQuestion": "What changed once living tissue was shown to be built from smaller repeating units?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Robert Hooke; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Universal Gravitation",
+      "havenPage": 23,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1687",
+      "possibleSocialAdjustmentQuestion": "What had to be reconciled in natural philosophy once one law was said to govern both falling objects and orbiting planets?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Newton; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Fossils",
+      "havenPage": 25,
+      "category": "ways-of-knowing",
+      "approximatePeriod": null,
+      "possibleSocialAdjustmentQuestion": "What changed once buried remains were accepted as evidence of past, sometimes vanished, forms of life?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "No single clear date; period needs verification against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Distance to the Sun",
+      "havenPage": 27,
+      "category": "ways-of-measuring",
+      "approximatePeriod": "1672",
+      "possibleSocialAdjustmentQuestion": "What became possible once the solar system had a measured, rather than assumed, scale?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Cassini; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Bacteria",
+      "havenPage": 29,
+      "category": "ways-of-seeing",
+      "approximatePeriod": "1670s",
+      "possibleSocialAdjustmentQuestion": "What changed once a world of living things too small to see was shown to exist at all?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Leeuwenhoek; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Laws of Motion",
+      "havenPage": 31,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1687",
+      "possibleSocialAdjustmentQuestion": "What became predictable in engineering and navigation once motion followed three stated rules?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Newton; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Order in Nature",
+      "havenPage": 33,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1735",
+      "possibleSocialAdjustmentQuestion": "What changed once living things could be sorted into one shared classification system?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Linnaeus; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Galaxies",
+      "havenPage": 36,
+      "category": "ways-of-seeing",
+      "approximatePeriod": "1920s",
+      "possibleSocialAdjustmentQuestion": "What changed once the Milky Way was shown to be one galaxy among many rather than the whole universe?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Hubble; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "The Nature of Electricity",
+      "havenPage": 38,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1750s",
+      "possibleSocialAdjustmentQuestion": "What had to change once electricity was understood as a single, controllable natural force?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Franklin; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Oceans Control Global Weather",
+      "havenPage": 40,
+      "category": "ways-of-knowing",
+      "approximatePeriod": null,
+      "possibleSocialAdjustmentQuestion": "What changed in forecasting once weather was understood as a global, ocean-linked system rather than a local one?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "No single clear date; period needs verification against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Oxygen",
+      "havenPage": 43,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1774",
+      "possibleSocialAdjustmentQuestion": "What had to change in chemistry once burning was explained by a specific gas rather than by an imagined substance leaving matter?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Priestley and Lavoisier; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Photosynthesis",
+      "havenPage": 45,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "late 1700s",
+      "possibleSocialAdjustmentQuestion": "What changed in agriculture and botany once plants were understood to make their own food from light?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Conservation of Matter",
+      "havenPage": 47,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1789",
+      "possibleSocialAdjustmentQuestion": "What became possible in chemistry once matter was understood as neither created nor destroyed in a reaction?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Lavoisier; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "The Nature of Heat",
+      "havenPage": 49,
+      "category": "ways-of-knowing",
+      "approximatePeriod": null,
+      "possibleSocialAdjustmentQuestion": "What changed in engineering once heat was understood as a form of motion rather than a substance?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "No single clear date; period needs verification against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Erosion of the Earth",
+      "havenPage": 51,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1785",
+      "possibleSocialAdjustmentQuestion": "What had to change in the accepted age of the Earth once slow, ongoing erosion was taken seriously as a shaping force?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with James Hutton; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Vaccinations",
+      "havenPage": 53,
+      "category": "ways-of-healing",
+      "approximatePeriod": "1796",
+      "possibleSocialAdjustmentQuestion": "What had to change in medical practice and public trust once deliberate exposure became an accepted form of protection?",
+      "candidateStatus": "excluded-duplicate",
+      "notes": "Already developed into a full case on this site; period is general knowledge, not yet checked against the book. Excluded: topic already covered by an existing case built from the 1001-inventions seed list or the original six cases."
+    },
+    {
+      "title": "Infrared and Ultraviolet",
+      "havenPage": 55,
+      "category": "ways-of-seeing",
+      "approximatePeriod": "1800-1801",
+      "possibleSocialAdjustmentQuestion": "What changed once light was shown to include ranges the human eye could not see at all?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Herschel and Ritter; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Anesthesia",
+      "havenPage": 57,
+      "category": "ways-of-healing",
+      "approximatePeriod": "1846",
+      "possibleSocialAdjustmentQuestion": "What changed in surgery, and in religious debate over pain, once patients could be reliably put beyond feeling it?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Atoms",
+      "havenPage": 59,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1803",
+      "possibleSocialAdjustmentQuestion": "What became calculable in chemistry once matter was modeled as made of discrete, countable particles?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Dalton; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Electrochemical Bonding",
+      "havenPage": 61,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "early 1800s",
+      "possibleSocialAdjustmentQuestion": "What became possible in industrial chemistry once bonding could be explained and manipulated electrically?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "The Existence of Molecules",
+      "havenPage": 63,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1811",
+      "possibleSocialAdjustmentQuestion": "What had to be revised in atomic theory once atoms were shown to combine into distinct molecular units?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Avogadro; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Electromagnetism",
+      "havenPage": 65,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1820",
+      "possibleSocialAdjustmentQuestion": "What became possible once electricity and magnetism were shown to be linked rather than separate forces?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Oersted and later Faraday; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "First Dinosaur Fossil",
+      "havenPage": 67,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1824",
+      "possibleSocialAdjustmentQuestion": "What had to change in the understood history of life once evidence of a large, extinct reptile was formally described?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with William Buckland; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Ice Ages",
+      "havenPage": 69,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1837",
+      "possibleSocialAdjustmentQuestion": "What had to change in the understood history of the Earth once past ice sheets were accepted as fact?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Louis Agassiz; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Calories (Units of Energy)",
+      "havenPage": 71,
+      "category": "ways-of-measuring",
+      "approximatePeriod": "1824",
+      "possibleSocialAdjustmentQuestion": "What became comparable and regulable once energy in food and fuel could be measured in a common unit?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Conservation of Energy",
+      "havenPage": 73,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1840s",
+      "possibleSocialAdjustmentQuestion": "What became possible in engineering once energy was understood as convertible but never created or destroyed?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Joule and Helmholtz; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Doppler Effect",
+      "havenPage": 75,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1842",
+      "possibleSocialAdjustmentQuestion": "What became measurable about motion itself once a wave's pitch or color was shown to shift with an object's speed?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Doppler; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Germ Theory",
+      "havenPage": 77,
+      "category": "ways-of-healing",
+      "approximatePeriod": "1860s",
+      "possibleSocialAdjustmentQuestion": "What had to change in hospital routine once invisible organisms, not bad air, were accepted as the cause of disease?",
+      "candidateStatus": "excluded-duplicate",
+      "notes": "Already developed into a full case on this site; period is general knowledge, not yet checked against the book. Excluded: topic already covered by an existing case built from the 1001-inventions seed list or the original six cases."
+    },
+    {
+      "title": "The Theory of Evolution",
+      "havenPage": 79,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1859",
+      "possibleSocialAdjustmentQuestion": "What had to change in religious and scientific authority once species were explained by descent with modification rather than fixed creation?",
+      "candidateStatus": "built",
+      "notes": "Associated with Darwin; period is general knowledge, not yet checked against the book. Built as case id \"darwin-evolution-origin-of-species\"."
+    },
+    {
+      "title": "Atomic Light Signatures",
+      "havenPage": 81,
+      "category": "ways-of-seeing",
+      "approximatePeriod": "1859",
+      "possibleSocialAdjustmentQuestion": "What became knowable about distant stars once each element was shown to leave its own signature in light?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Kirchhoff and Bunsen; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Electromagnetic Radiation/Radio Waves",
+      "havenPage": 83,
+      "category": "ways-of-communicating",
+      "approximatePeriod": "1887",
+      "possibleSocialAdjustmentQuestion": "What became possible in long-distance communication once electromagnetic waves were shown to travel through open space?",
+      "candidateStatus": "excluded-duplicate",
+      "notes": "Associated with Hertz; period is general knowledge, not yet checked against the book. Excluded: topic already covered by an existing case built from the 1001-inventions seed list or the original six cases."
+    },
+    {
+      "title": "Heredity",
+      "havenPage": 86,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1865",
+      "possibleSocialAdjustmentQuestion": "What had to change once traits were shown to pass between generations by countable, predictable rules?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Mendel, whose work went largely unrecognized for decades; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Deep-Sea Life",
+      "havenPage": 88,
+      "category": "ways-of-seeing",
+      "approximatePeriod": "1870s",
+      "possibleSocialAdjustmentQuestion": "What changed once life was shown to exist in ocean depths once assumed too extreme to support it?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with the Challenger expedition; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Periodic Chart of Elements",
+      "havenPage": 90,
+      "category": "ways-of-measuring",
+      "approximatePeriod": "1869",
+      "possibleSocialAdjustmentQuestion": "What became predictable in chemistry once elements could be arranged in one ordered, standard table?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Mendeleev; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Cell Division",
+      "havenPage": 92,
+      "category": "ways-of-seeing",
+      "approximatePeriod": "1870s",
+      "possibleSocialAdjustmentQuestion": "What became visible about growth and heredity once the process of cell division could be directly observed?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "X-Rays",
+      "havenPage": 95,
+      "category": "ways-of-seeing",
+      "approximatePeriod": "1895",
+      "possibleSocialAdjustmentQuestion": "What had to change in medical practice, and in public understanding of risk, once the inside of the living body became visible without cutting it open?",
+      "candidateStatus": "excluded-duplicate",
+      "notes": "Associated with Röntgen; period is general knowledge, not yet checked against the book. Excluded: topic already covered by an existing case built from the 1001-inventions seed list or the original six cases."
+    },
+    {
+      "title": "Blood Types",
+      "havenPage": 97,
+      "category": "ways-of-healing",
+      "approximatePeriod": "1901",
+      "possibleSocialAdjustmentQuestion": "What changed in surgical practice once transfusion risk was shown to depend on a testable blood type?",
+      "candidateStatus": "excluded-duplicate",
+      "notes": "Associated with Landsteiner; period is general knowledge, not yet checked against the book. Excluded: topic already covered by an existing case built from the 1001-inventions seed list or the original six cases."
+    },
+    {
+      "title": "Electron",
+      "havenPage": 99,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1897",
+      "possibleSocialAdjustmentQuestion": "What had to change in atomic theory once the atom was shown to contain smaller charged particles?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with J.J. Thomson; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Virus",
+      "havenPage": 101,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1892",
+      "possibleSocialAdjustmentQuestion": "What had to change in the understanding of disease once an infectious agent smaller than any known bacterium was identified?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Ivanovsky; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Mitochondria",
+      "havenPage": 103,
+      "category": "ways-of-seeing",
+      "approximatePeriod": "1890s",
+      "possibleSocialAdjustmentQuestion": "What became understood about cell energy once a specific internal structure was identified as its source?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Radioactivity",
+      "havenPage": 105,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1896",
+      "possibleSocialAdjustmentQuestion": "What had to change once some elements were shown to emit energy on their own, without any outside cause?",
+      "candidateStatus": "built",
+      "notes": "Associated with Becquerel; period is general knowledge, not yet checked against the book. Built as case id \"radium-radioactivity-quack-marketing-radium-girls\"."
+    },
+    {
+      "title": "Atmospheric Layers",
+      "havenPage": 107,
+      "category": "ways-of-measuring",
+      "approximatePeriod": null,
+      "possibleSocialAdjustmentQuestion": "What became predictable about weather and flight once the atmosphere was shown to have distinct, measurable layers?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "No single clear date; period needs verification against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Hormones",
+      "havenPage": 109,
+      "category": "ways-of-healing",
+      "approximatePeriod": "1902",
+      "possibleSocialAdjustmentQuestion": "What changed in medicine once the body was shown to regulate itself through chemical messengers rather than nerves alone?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Bayliss and Starling; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "E=mc2",
+      "havenPage": 111,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1905",
+      "possibleSocialAdjustmentQuestion": "What had to be reconciled in physics once mass and energy were shown to be the same quantity in different forms?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Einstein; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Relativity",
+      "havenPage": 114,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1905-1915",
+      "possibleSocialAdjustmentQuestion": "What had to change in the understanding of space and time once both were shown to depend on an observer's motion?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Einstein; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Vitamins",
+      "havenPage": 117,
+      "category": "ways-of-healing",
+      "approximatePeriod": "1912",
+      "possibleSocialAdjustmentQuestion": "What changed in nutrition and public health once specific deficiency diseases were traced to missing trace compounds?",
+      "candidateStatus": "built",
+      "notes": "Associated with Casimir Funk; period is general knowledge, not yet checked against the book. Built as case id \"vitamins-deficiency-disease-food-fortification\"."
+    },
+    {
+      "title": "Radioactive Dating",
+      "havenPage": 119,
+      "category": "ways-of-measuring",
+      "approximatePeriod": "1900s",
+      "possibleSocialAdjustmentQuestion": "What had to change in the accepted age of the Earth once rock age became directly measurable rather than estimated?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Boltwood; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Function of Chromosomes",
+      "havenPage": 121,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1902-1915",
+      "possibleSocialAdjustmentQuestion": "What had to change in heredity theory once chromosomes were shown to carry hereditary information physically?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Sutton and Morgan; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Antibiotics",
+      "havenPage": 124,
+      "category": "ways-of-healing",
+      "approximatePeriod": "1928",
+      "possibleSocialAdjustmentQuestion": "What had to change in medical practice once bacterial infection became routinely treatable rather than often fatal?",
+      "candidateStatus": "built",
+      "notes": "Associated with Fleming; may overlap with the separate Penicillin entry later in this list; period is general knowledge, not yet checked against the book. Built as case id \"penicillin-fleming-florey-chain-first-antibiotic\"."
+    },
+    {
+      "title": "Fault Lines",
+      "havenPage": 126,
+      "category": "ways-of-knowing",
+      "approximatePeriod": null,
+      "possibleSocialAdjustmentQuestion": "What became predictable about earthquakes once their location was tied to mapped fault lines rather than treated as random?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "No single clear date; period needs verification against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Superconductivity",
+      "havenPage": 128,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1911",
+      "possibleSocialAdjustmentQuestion": "What became imaginable in engineering once some materials were shown to lose all electrical resistance at low temperature?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Kamerlingh Onnes; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Atomic Bonding",
+      "havenPage": 131,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1916",
+      "possibleSocialAdjustmentQuestion": "What became predictable in chemistry once bonding was explained by shared electrons rather than by unexplained affinity?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with G.N. Lewis; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Isotopes",
+      "havenPage": 133,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1913",
+      "possibleSocialAdjustmentQuestion": "What had to change in atomic theory once atoms of the same element were shown to differ in weight?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Soddy; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Earth's Core and Mantle",
+      "havenPage": 136,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1906-1936",
+      "possibleSocialAdjustmentQuestion": "What became knowable about the Earth's interior once its structure could be inferred from earthquake waves rather than direct observation?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Oldham and Lehmann; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Continental Drift",
+      "havenPage": 138,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1912",
+      "possibleSocialAdjustmentQuestion": "What had to change in geology once continents were proposed to move, decades before any mechanism could explain how?",
+      "candidateStatus": "built",
+      "notes": "Associated with Wegener, whose theory was rejected for decades before plate tectonics vindicated it; a strong candidate for a full case; period is general knowledge, not yet checked against the book. Built as case id \"wegener-continental-drift-plate-tectonics\"."
+    },
+    {
+      "title": "Black Holes",
+      "havenPage": 140,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1916",
+      "possibleSocialAdjustmentQuestion": "What had to change in astrophysics once a region from which nothing, not even light, could escape was shown to be possible?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Theoretical proposal by Schwarzschild predates observational evidence by decades; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Insulin",
+      "havenPage": 142,
+      "category": "ways-of-healing",
+      "approximatePeriod": "1921",
+      "possibleSocialAdjustmentQuestion": "What changed for patients and physicians once a fatal metabolic disease became manageable with a daily injection?",
+      "candidateStatus": "built",
+      "notes": "Associated with Banting and Best; period is general knowledge, not yet checked against the book. Built as case id \"banting-best-insulin-diabetes-mass-production\"."
+    },
+    {
+      "title": "Neurotransmitters",
+      "havenPage": 144,
+      "category": "ways-of-healing",
+      "approximatePeriod": "1921",
+      "possibleSocialAdjustmentQuestion": "What changed in neuroscience and psychiatry once nerve signals were shown to cross gaps using chemical messengers?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Otto Loewi; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Human Evolution",
+      "havenPage": 146,
+      "category": "ways-of-knowing",
+      "approximatePeriod": null,
+      "possibleSocialAdjustmentQuestion": "What had to change in the understanding of human origins as successive fossil finds pushed the timeline back?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "No single clear date; period needs verification against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Quantum Theory",
+      "havenPage": 148,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1900-1920s",
+      "possibleSocialAdjustmentQuestion": "What had to be given up in classical physics once energy and matter were shown to behave in discrete, probabilistic units at small scales?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Expanding Universe",
+      "havenPage": 150,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1929",
+      "possibleSocialAdjustmentQuestion": "What had to change in cosmology once the universe was shown to be growing rather than static?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Hubble; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Uncertainty Principle",
+      "havenPage": 153,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1927",
+      "possibleSocialAdjustmentQuestion": "What had to be accepted in physics once some pairs of properties were shown to be impossible to know precisely at the same time?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Heisenberg; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Speed of Light",
+      "havenPage": 155,
+      "category": "ways-of-measuring",
+      "approximatePeriod": "1676-1849",
+      "possibleSocialAdjustmentQuestion": "What became measurable about the universe once light's speed was shown to be finite rather than instantaneous?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Early estimate by Roemer, later refined by Fizeau; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Penicillin",
+      "havenPage": 158,
+      "category": "ways-of-healing",
+      "approximatePeriod": "1928",
+      "possibleSocialAdjustmentQuestion": "What changed in wartime and civilian medicine once the first mass-produced antibiotic became available?",
+      "candidateStatus": "built",
+      "notes": "Associated with Fleming, developed further by Florey and Chain; may overlap with the earlier Antibiotics entry; period is general knowledge, not yet checked against the book. Built as case id \"penicillin-fleming-florey-chain-first-antibiotic\"."
+    },
+    {
+      "title": "Antimatter",
+      "havenPage": 160,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1932",
+      "possibleSocialAdjustmentQuestion": "What had to change in particle physics once every particle was shown to have an opposite counterpart?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Carl Anderson; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Neutron",
+      "havenPage": 163,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1932",
+      "possibleSocialAdjustmentQuestion": "What became possible in nuclear physics once the atom was shown to contain an uncharged particle alongside the proton?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Chadwick; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Cell Structure",
+      "havenPage": 165,
+      "category": "ways-of-seeing",
+      "approximatePeriod": "1930s-1950s",
+      "possibleSocialAdjustmentQuestion": "What became visible about the cell's internal organization once the electron microscope extended sight past the limits of light?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "The Function of Genes",
+      "havenPage": 167,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1941",
+      "possibleSocialAdjustmentQuestion": "What had to change in genetics once a gene's function was tied directly to producing a specific protein?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Beadle and Tatum; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Ecosystem",
+      "havenPage": 169,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1935",
+      "possibleSocialAdjustmentQuestion": "What became manageable in conservation once living things and their environment were treated as one linked system?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Arthur Tansley; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Weak and Strong Force",
+      "havenPage": 171,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "mid-20th century",
+      "possibleSocialAdjustmentQuestion": "What had to be added to physics once gravity and electromagnetism were shown not to explain what holds a nucleus together?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Metabolism",
+      "havenPage": 174,
+      "category": "ways-of-healing",
+      "approximatePeriod": null,
+      "possibleSocialAdjustmentQuestion": "What became treatable in medicine once the body's chemical processes could be traced as a connected system?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "No single clear date; period needs verification against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Coelacanth",
+      "havenPage": 176,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1938",
+      "possibleSocialAdjustmentQuestion": "What had to be revised about extinction itself once a fish long presumed extinct for millions of years was found alive?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Nuclear Fission",
+      "havenPage": 178,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1938",
+      "possibleSocialAdjustmentQuestion": "What had to change in international security once splitting an atom was shown to release usable, weaponizable energy?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Hahn and Strassmann; connects to existing site content on the Manhattan Project and the Baruch Plan; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Blood Plasma",
+      "havenPage": 181,
+      "category": "ways-of-healing",
+      "approximatePeriod": "1930s-1940s",
+      "possibleSocialAdjustmentQuestion": "What changed in battlefield and civilian medicine once blood plasma could be separated, stored, and transfused separately from whole blood?",
+      "candidateStatus": "excluded-duplicate",
+      "notes": "Period is general knowledge, not yet checked against the book. Excluded: topic already covered by an existing case built from the 1001-inventions seed list or the original six cases."
+    },
+    {
+      "title": "Semiconductor Transistor",
+      "havenPage": 183,
+      "category": "ways-of-making-and-moving",
+      "approximatePeriod": "1947",
+      "possibleSocialAdjustmentQuestion": "What had to be rebuilt in electronics manufacturing once a solid-state device replaced the vacuum tube?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Bell Labs; foundational to later computing; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "The Big Bang",
+      "havenPage": 185,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1927, evidence 1965",
+      "possibleSocialAdjustmentQuestion": "What had to change in cosmology once the universe was shown to have a beginning rather than existing eternally?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Theoretical proposal by Lemaitre, later observational support; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Definition of Information",
+      "havenPage": 188,
+      "category": "ways-of-measuring",
+      "approximatePeriod": "1948",
+      "possibleSocialAdjustmentQuestion": "What became engineerable in communication once information itself could be defined and measured mathematically?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Claude Shannon; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Jumpin' Genes",
+      "havenPage": 190,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1940s-1950s",
+      "possibleSocialAdjustmentQuestion": "What had to change in genetics once genetic material was shown to move within a genome rather than sit fixed in place?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Barbara McClintock, whose work went unrecognized for years; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Fusion",
+      "havenPage": 192,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1920s-1950s",
+      "possibleSocialAdjustmentQuestion": "What had to change in energy policy once the process powering stars was understood and pursued as a possible power source?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Origins of Life",
+      "havenPage": 194,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1953",
+      "possibleSocialAdjustmentQuestion": "What had to change in the understood boundary between chemistry and life once basic organic molecules were produced under early-Earth conditions in a lab?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with the Miller-Urey experiment; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "DNA",
+      "havenPage": 196,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1953",
+      "possibleSocialAdjustmentQuestion": "What became possible in medicine and law once heredity was tied to a specific, physically described molecular structure?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Watson, Crick, and Franklin; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Seafloor Spreading",
+      "havenPage": 199,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1960s",
+      "possibleSocialAdjustmentQuestion": "What finally let continental drift be accepted once a mechanism for it was found on the ocean floor?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Harry Hess; directly connects to the Continental Drift entry above; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "The Nature of the Atmosphere",
+      "havenPage": 201,
+      "category": "ways-of-measuring",
+      "approximatePeriod": null,
+      "possibleSocialAdjustmentQuestion": "What became predictable about weather and climate once the atmosphere's composition could be measured directly rather than inferred?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "No single clear date; period needs verification against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Quarks",
+      "havenPage": 203,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1964",
+      "possibleSocialAdjustmentQuestion": "What had to change in particle physics once protons and neutrons were shown to be built from smaller particles?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Gell-Mann and Zweig; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Quasars and Pulsars",
+      "havenPage": 205,
+      "category": "ways-of-seeing",
+      "approximatePeriod": "1960s",
+      "possibleSocialAdjustmentQuestion": "What became visible in the universe once radio astronomy revealed objects too faint or too fast for optical telescopes alone?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Complete Evolution",
+      "havenPage": 208,
+      "category": "ways-of-knowing",
+      "approximatePeriod": null,
+      "possibleSocialAdjustmentQuestion": "What had to be integrated into evolutionary theory as genetics, paleontology, and population biology were combined into one framework?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Likely refers to the modern evolutionary synthesis; period needs verification against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Dark Matter",
+      "havenPage": 211,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1933, revisited 1970s",
+      "possibleSocialAdjustmentQuestion": "What had to be accepted in astrophysics once galaxy rotation implied far more mass than could be directly observed?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Associated with Zwicky, later Vera Rubin; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "The Nature of Dinosaurs",
+      "havenPage": 213,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1970s",
+      "possibleSocialAdjustmentQuestion": "What had to be revised in paleontology and popular imagination once dinosaurs were reconsidered as active and possibly warm-blooded?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Often called the dinosaur renaissance; period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Planets Exist Around Other Stars",
+      "havenPage": 215,
+      "category": "ways-of-seeing",
+      "approximatePeriod": "1995",
+      "possibleSocialAdjustmentQuestion": "What changed in the search for life elsewhere once a planet was confirmed orbiting a star other than the Sun?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Accelerating Universe",
+      "havenPage": 218,
+      "category": "ways-of-knowing",
+      "approximatePeriod": "1998",
+      "possibleSocialAdjustmentQuestion": "What had to change in cosmology once the universe's expansion was shown to be speeding up rather than slowing down?",
+      "candidateStatus": "excluded-thin-social-narrative",
+      "notes": "Period is general knowledge, not yet checked against the book. Excluded from full-case triage: this entry is a scientific discovery/measurement without a documentable arrival-into-society adoption or resistance narrative distinct from the discovery itself, per this project's own eligibility rule (see methodology page)."
+    },
+    {
+      "title": "Human Genome",
+      "havenPage": 220,
+      "category": "ways-of-measuring",
+      "approximatePeriod": "2000-2003",
+      "possibleSocialAdjustmentQuestion": "What became possible in medicine, law, and identity once a full human genetic sequence was read and published?",
+      "candidateStatus": "built",
+      "notes": "Human Genome Project; period is general knowledge, not yet checked against the book. Built as case id \"human-genome-project-celera-gene-patenting\"."
+    }
+  ]
+}

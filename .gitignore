@@ -39,3 +39,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# source books used to seed data/*-candidates.json — too large for git,
+# and their content is already extracted into those tracked JSON files
+*.epub
+haven_100_greatest.pdf
