@@ -12,7 +12,7 @@ export default function MethodologyPage() {
         Methodology
       </h1>
       <p className="mt-4 text-lg leading-relaxed text-ink-muted">
-        There are recurring patterns that emerge when new technologies disrupt existing norms. This project aims to shed light on these patterns.
+        This project traces the recurring patterns in how new technologies unsettle existing norms.
       </p>
 
       <div className="mt-10 flex flex-col gap-8">
@@ -60,7 +60,7 @@ export default function MethodologyPage() {
             Two seed lists
           </h2>
           <p className="mt-2 leading-relaxed text-ink-muted">
-            Two books serve as starting lists of candidate cases.
+            We currently draw cases from the following two works.
           </p>
           <ul className="mt-3 list-disc space-y-2 pl-5 leading-relaxed text-ink-muted">
             <li>
@@ -69,7 +69,15 @@ export default function MethodologyPage() {
               covers discoveries in a narrow sense, facts found out about
               nature. Only a fraction of the list becomes a full case.
               See{" "}
-              <span className="text-ink">data/haven-seed-candidates.json</span>.
+              <a
+                href="https://github.com/jonahablack/Hindsight/blob/main/data/haven-seed-candidates.json"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-ink underline decoration-border-strong underline-offset-4 hover:text-accent hover:decoration-accent"
+              >
+                data/haven-seed-candidates.json
+              </a>
+              .
             </li>
             <li>
               Jack Challoner&apos;s{" "}
@@ -77,7 +85,15 @@ export default function MethodologyPage() {
               covers inventions, and its short chapters often describe
               adoption or resistance directly. About a quarter of its
               entries were flagged as worth a closer look. See{" "}
-              <span className="text-ink">data/1001-inventions-seed-candidates.json</span>.
+              <a
+                href="https://github.com/jonahablack/Hindsight/blob/main/data/1001-inventions-seed-candidates.json"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-ink underline decoration-border-strong underline-offset-4 hover:text-accent hover:decoration-accent"
+              >
+                data/1001-inventions-seed-candidates.json
+              </a>
+              .
             </li>
           </ul>
         </section>
@@ -101,8 +117,15 @@ export default function MethodologyPage() {
           <p className="mt-2 leading-relaxed text-ink-muted">
             If you know a source that should be added, a claim that
             needs a fix, or a case that belongs here, see{" "}
-            <span className="font-medium text-ink">CONTRIBUTING.md</span>{" "}
-            in the project code.
+            <a
+              href="https://github.com/jonahablack/Hindsight/blob/main/CONTRIBUTING.md"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="font-medium text-ink underline decoration-border-strong underline-offset-4 hover:text-accent hover:decoration-accent"
+            >
+              CONTRIBUTING.md
+            </a>
+            .
           </p>
         </section>
 
